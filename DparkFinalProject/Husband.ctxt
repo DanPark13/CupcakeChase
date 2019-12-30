@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Husband
+comment0.text=\n\ This\ class\ controls\ the\ character\ that\ the\ protagonist\ controls\ (the\ Husband)\n\ \n\ @Daniel\ Park\ \n\ @1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Husband\ wants\ to\ do\n
+comment2.params=
+comment2.target=void\ moveAround()
+comment2.text=\n\ Clicked\ arrow\ keys\ will\ direct\ the\ Husband\ around\ the\ screen\n\ Collect\ cupcakes\ and\ stay\ away\ from\ his\ Wife(.class)\n
+comment3.params=
+comment3.target=void\ eat()
+comment3.text=\n\ When\ Husband\ meets\ with\ a\ cupcake,\ he\ will\ eat\ the\ cupcake\n
+comment4.params=
+comment4.target=void\ winningTerms()
+comment4.text=\n\ When\ Husband\ eats\ 30\ cupcakes,\ the\ game\ will\ say\ congratulations\ and\ the\ game\ will\ end\n
+numComments=5

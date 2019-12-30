@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wife
+comment0.text=\n\ This\ is\ all\ the\ code\ for\ the\ Wife\ class.\ I\ am\ very\ proud\ of\ this\ class.\n\ \n\ @Daniel\ Park\ \n\ @1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Wife\ wants\ to\ do.\ This\ method\ controls\ the\ Wife's\ movement\ and\ contains\ all\ the\ methods\n\ to\ make\ it\ work\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\n\ When\ the\ Wife\ class\ hits\ the\ edge\ of\ the\ world,\ it\ will\ turn\ in\ a\ random\ direction\n
+comment3.params=a
+comment3.target=double\ distance(greenfoot.Actor)
+comment3.text=\n\ Calculates\ the\ distance\ between\ the\ Wife\ and\ the\ Husband\ in\ order\ for\ the\ Wife\ class\n\ to\ track\ down\ the\ Husband\ class\n
+comment4.params=
+comment4.target=void\ locateClosest()
+comment4.text=\n\ Tells\ the\ Wife\ class\ to\ chase\ the\ husband\ class\n
+comment5.params=
+comment5.target=void\ losingTerms1()
+comment5.text=\n\ What\ happens\ when\ the\ Wife\ catches\ the\ Husband\ (Oh\ no)\n
+numComments=6

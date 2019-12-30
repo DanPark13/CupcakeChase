@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cupcake
+comment0.text=\n\ This\ class\ is\ for\ the\ cupcake\ that\ the\ Husband\ eats\ to\ win\ the\ game\n\ \n\ @Daniel\ Park\ \n\ @1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Tells\ the\ cupcake\ to\ create\ at\ certain\ heights\ and\ disappear\ at\ other\ heights\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\n\ The\ main\ screen\ of\ the\ game.\ This\ is\ where\ the\ gameplay\ happens.\n\ \n\ @Daniel\ Park\ \n\ @1.0\n
+comment1.params=
+comment1.target=GameWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Tells\ the\ cupcakes\ to\ generate\ at\ random\ times\ and\ random\ places\ along\ the\ top\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Constructs\ everything\ that\ is\ not\ cupcakes\ and\ the\ Husband\ \n
+comment4.params=
+comment4.target=void\ timeLeft()
+comment4.text=W\n\ Displays\ how\ much\ time\ is\ left\ before\ the\ game\ is\ over\n
+numComments=5
